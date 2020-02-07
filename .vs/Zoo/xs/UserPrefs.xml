@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{584FFBD7-0097-20C6-637C-9CC034552BAC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Animals/Scripts/Animal.cs">
+    <Files>
+      <File FileName="Assets/Animals/Scripts/Animal.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Zoo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Animals" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Animal.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ec355a3b-0ae8-4dff-9987-d21b85c1e6af" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
